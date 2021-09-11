@@ -1,7 +1,7 @@
 # OS
 Operating Systems
 Linux System Calls and Library Functions Project
-----<br/>
+----
 1.Purpose:<br/>
 2.Use perror and getopt<br/>
 3.Understand the different steps of compilation and linking, and creating an executable<br/>
